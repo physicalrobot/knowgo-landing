@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5eb41a0e.css",
+    "main.js": "/static/js/main.aaf6539b.js",
+    "static/js/453.e0e456aa.chunk.js": "/static/js/453.e0e456aa.chunk.js",
+    "static/media/knowgologo.png": "/static/media/knowgologo.911f79c62b2018772ffb.png",
+    "static/media/Quicksand-Bold.ttf": "/static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf",
+    "index.html": "/index.html",
+    "main.5eb41a0e.css.map": "/static/css/main.5eb41a0e.css.map",
+    "main.aaf6539b.js.map": "/static/js/main.aaf6539b.js.map",
+    "453.e0e456aa.chunk.js.map": "/static/js/453.e0e456aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb41a0e.css",
+    "static/js/main.aaf6539b.js"
+  ]
+}
