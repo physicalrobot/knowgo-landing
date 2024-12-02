@@ -60,6 +60,11 @@ const styles = {
     backgroundColor: '#f9f9f9',
     textAlign: 'center',
     flex: 1, // Allow this section to grow and fill available space
+    width:'100%',
+    margin:0,
+    padding:'30px'
+
+
   },
   grid: {
     display: 'flex',
