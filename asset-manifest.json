@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.89cad223.css",
-    "main.js": "/static/js/main.8bcc199b.js",
+    "main.js": "/static/js/main.5a53e154.js",
     "static/js/453.e0e456aa.chunk.js": "/static/js/453.e0e456aa.chunk.js",
     "static/media/knowgologo.png": "/static/media/knowgologo.911f79c62b2018772ffb.png",
     "static/media/Quicksand-Bold.ttf": "/static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf",
     "index.html": "/index.html",
     "main.89cad223.css.map": "/static/css/main.89cad223.css.map",
-    "main.8bcc199b.js.map": "/static/js/main.8bcc199b.js.map",
+    "main.5a53e154.js.map": "/static/js/main.5a53e154.js.map",
     "453.e0e456aa.chunk.js.map": "/static/js/453.e0e456aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89cad223.css",
-    "static/js/main.8bcc199b.js"
+    "static/js/main.5a53e154.js"
   ]
 }
