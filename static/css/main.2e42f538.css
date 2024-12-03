@@ -1,2 +1,0 @@
-#root,body,html{display:flex;flex-direction:column;height:100%;margin:0;overflow-x:hidden;width:100%}body{box-sizing:border-box;font-family:Quicksand,Arial,sans-serif}@media (max-width:768px){.grid{flex-direction:column}.card{width:100%}}@font-face{font-family:Quicksand;font-style:normal;font-weight:700;src:url(../../static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf) format("truetype")}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}button{all:unset;display:inline-block}
-/*# sourceMappingURL=main.2e42f538.css.map*/

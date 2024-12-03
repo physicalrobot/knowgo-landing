@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.2e42f538.css",
-    "main.js": "./static/js/main.e5ce9e9c.js",
-    "static/js/453.e0e456aa.chunk.js": "./static/js/453.e0e456aa.chunk.js",
-    "static/media/knowgologo.png": "./static/media/knowgologo.911f79c62b2018772ffb.png",
-    "static/media/Quicksand-Bold.ttf": "./static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf",
-    "index.html": "./index.html",
-    "main.2e42f538.css.map": "./static/css/main.2e42f538.css.map",
-    "main.e5ce9e9c.js.map": "./static/js/main.e5ce9e9c.js.map",
-    "453.e0e456aa.chunk.js.map": "./static/js/453.e0e456aa.chunk.js.map"
+    "main.css": "/static/css/main.c38cd971.css",
+    "main.js": "/static/js/main.8bcc199b.js",
+    "static/js/453.e0e456aa.chunk.js": "/static/js/453.e0e456aa.chunk.js",
+    "static/media/knowgologo.png": "/static/media/knowgologo.911f79c62b2018772ffb.png",
+    "static/media/Quicksand-Bold.ttf": "/static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf",
+    "index.html": "/index.html",
+    "main.c38cd971.css.map": "/static/css/main.c38cd971.css.map",
+    "main.8bcc199b.js.map": "/static/js/main.8bcc199b.js.map",
+    "453.e0e456aa.chunk.js.map": "/static/js/453.e0e456aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e42f538.css",
-    "static/js/main.e5ce9e9c.js"
+    "static/css/main.c38cd971.css",
+    "static/js/main.8bcc199b.js"
   ]
 }
