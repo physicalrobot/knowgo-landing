@@ -3,13 +3,13 @@ import logo from "../assets/knowgologo.png";
 
 const Hero = () => {
   return (
-    <section style={styles.hero}>
+    <section className= 'hero' style={styles.hero}>
     <h1 style={styles.title}>
       Welcome to <span style={styles.know}>Know</span>
       <span style={styles.go}>Go</span>!
     </h1>
     <div style={styles.logo}>
-      <img src={logo} alt="the site logo" style={styles.image} />
+      <img className='logo' src={logo} alt="the site logo" style={styles.image} />
     </div>
     <p style={styles.subtitle}>
       “I learned very early the difference between knowing the name of

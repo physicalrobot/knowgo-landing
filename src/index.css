@@ -1,23 +1,59 @@
-html,
-body,
-#root {
-  height: 100%;
+* {
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  width:100%;
-
-
-}
-
-body {
-  font-family: 'Quicksand', Arial, sans-serif;
+  padding: 0;
   box-sizing: border-box;
 }
 
+.container, .hero, .features, footer {
+  width: 100vw; /* Use full viewport width */
+  max-width: 100%; /* Prevent any extra width */
+  margin: 0 auto; /* Center the content */
+}
+
+.forTutor , .forStudent{
+  padding-bottom: 14px;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+
+body {
+  font-family: 'Quicksand', Arial, sans-serif;
+}
+
+.hero, .features, footer {
+  width: 100vw; /* Full viewport width */
+  display: flex; /* Enable Flexbox */
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+  margin: 0 auto; /* Ensure no horizontal offset */
+  padding: 0; /* Remove extra padding */
+  text-align: center; /* Center text within elements */
+}
 
 
 @media (max-width: 768px) {
+  .hero, .grid, .features, footer {
+    flex-direction: column;
+    width: 100vw;
+    padding: 0;
+    margin: 0 auto;
+  }
+  .logo {
+    margin-left: -10px; /* Adjust this value as needed */
+  }
+
+
+
+  
   .grid {
     flex-direction: column; /* Stack cards vertically on smaller screens */
   }

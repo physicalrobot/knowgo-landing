@@ -19,14 +19,14 @@ const tutorFeatures = [
 
 const Features = () => {
   return (
-    <section style={styles.features}>
+    <section className='features' style={styles.features}>
       <h2 style={styles.header}>Why Choose <span style={styles.know}>Know</span>
       <span style={styles.go}>Go</span>?</h2>
       <div style={styles.grid}>
         {/* For Students */}
         <div style={styles.card}>
           <FaUserGraduate style={styles.icon} />
-          <h3>For Students</h3>
+          <h3 className='forStudent'>For Students</h3>
           <ul style={styles.list}>
             {studentFeatures.map((feature, index) => (
               <li key={index} style={styles.listItem}>{feature}</li>
@@ -37,7 +37,7 @@ const Features = () => {
         {/* For Tutors */}
         <div style={styles.card}>
           <FaChalkboardTeacher style={styles.icon} />
-          <h3>For Tutors</h3>
+          <h3 className='forTutor'>For Tutors</h3>
           <ul style={styles.list}>
             {tutorFeatures.map((feature, index) => (
               <li key={index} style={styles.listItem}>{feature}</li>
