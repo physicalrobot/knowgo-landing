@@ -35,7 +35,7 @@ const styles = {
     alignItems: "center",
     justifyContent: "center",
     position: "relative",
-    width: "100%",
+    width: "100vw",
     padding:'30px'
   },
   title: {

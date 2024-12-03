@@ -24,7 +24,7 @@ const styles = {
     padding: "30px",
     position: "relative",
     bottom: "0",
-    width: "100%",
+    width: "100vw",
     height: "60px", // Optional: Ensures consistent height
   },
 };

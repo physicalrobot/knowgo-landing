@@ -60,7 +60,7 @@ const styles = {
     backgroundColor: '#f9f9f9',
     textAlign: 'center',
     flex: 1, // Allow this section to grow and fill available space
-    width:'100%',
+    width: "100vw",
     margin:0,
     padding:'30px'
 
